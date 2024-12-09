@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine:wght@400..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+img, video{
+	max-width: 100%;
+	height: auto;
+}
+figure{
+    margin: 0;
+}
+body{
+    background-color: #eeffaa;
+    line-height: 1.5;
+    max-width: 70ch;
+    max-width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+}
+html{
+    font-size: 100%;
+    font-family: "Open Sans", sans-serif;
+}
+h1{
+    font-size: 48px;
+    font-size: 3rem;
+    font-family: "Domine", serif;
+  }
+h2{
+    font-size: 2rem;
+    font-weight: 100;
+}
+h3{
+    font-size: 1.8rem;
+}
+.site-title{
+    font-size: 2rem;
+    font-family: "Domine", serif;
+    color: darkblue;
+}
+
+
+header{
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li{
+  display: inline-block;
+  margin-right: 20px;
+}
+p{
+    /* width: 300px; */
+}
